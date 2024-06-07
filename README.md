@@ -1,0 +1,1 @@
+# Integrasi-Trapezoid_Metode-Numerik_Gina-Nabila
